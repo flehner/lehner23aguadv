@@ -8,7 +8,7 @@ New potential to reduce uncertainty in regional climate projections by combining
 AGU Advances, DOI: XXX. 
   
 Data sources: 
-  - CMIP6: [[https://www.earthsystemgrid.org](https://esgf-node.llnl.gov/search/cmip6/)/](https://esgf-node.llnl.gov/search/cmip6/)
+  - CMIP6: [https://www.earthsystemgrid.org](https://esgf-node.llnl.gov/search/cmip6/)
   - Observations: [https://berkeleyearth.org/data/](https://berkeleyearth.org/data/)  
 
 Languages: Matlab  
